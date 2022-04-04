@@ -13,18 +13,19 @@
 <div align="center">
 
   ![Github Readme Stats](https://github-readme-stats.vercel.app/api?username=jorgeloopzz&show_icons=true&bg_color=161320&text_color=D9E0EE&icon_color=DDB6F2&title_color=96CDFB)
-
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jorgeloopzz&bg_color=161320&text_color=D9E0EE&icon_color=DDB6F2&title_color=96CDFB)](https://github.com/anuraghazra/github-readme-stats)
+  
+  <img height="180em" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs?username=jorgeloopzz&show_icons=true&locale=en&layout=compact&hide_border=false&theme=radical&exclude_repo=dmenu,st&langs_count=6#gh-dark-mode-only" />
 
 </div>
 
 <div align="center" stile="inline">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width=50>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width=50>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width=50>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width=50>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width=50>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width=50>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width=40>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width=40>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width=40>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width=40>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width=40>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width=40>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" width=40>
 </div>
 
 &nbsp;
