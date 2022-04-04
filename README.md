@@ -29,8 +29,6 @@
 
 <p align="center"><img src="https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/footers/gray0_ctp_on_line.svg?sanitize=true" /></p>
 
-<h3 align="center"> 💖 </h3>
-
 <!--
 **jorgeloopzz/jorgeloopzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
