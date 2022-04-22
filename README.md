@@ -25,7 +25,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width=40>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width=40>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width=40>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" width=40>
+  <img src="https://img.icons8.com/color/344/c-programming.png" width=40>
 </div>
 
 &nbsp;
