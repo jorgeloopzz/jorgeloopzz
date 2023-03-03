@@ -30,10 +30,6 @@
 
 &nbsp;
 
-<p align="center"><img src="https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/footers/gray0_ctp_on_line.svg?sanitize=true" /></p>
-
-<img align="right" src="https://komarev.com/ghpvc/?username=jorgeloopzz&color=ff6e96&style=for-the-badge">
-
 <!--
 **jorgeloopzz/jorgeloopzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
