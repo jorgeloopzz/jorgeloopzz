@@ -8,20 +8,11 @@
   - 🐧 I'm a Linux enthusiast.
   - 🌱 In my free time I work on my own projects and rice my window managers.
 
-
 ## 📈 Stats
+
 <div align="center">
-
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jorgeloopzz&show_icons=true&bg_color=303446&text_color=c6d0f5&icon_color=ca9ee6&title_color=81c8be)
-
+  <img src="https://myreadme.vercel.app/api/embed/jorgeloopzz?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 </div>
-<div align="center">
-
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jorgeloopzz&layout=compact&bg_color=303446&text_color=c6d0f5&icon_color=ca9ee6&title_color=81c8be)
-
-</div>
-
-
 
 ## 🛠️ Languages and tools
 <div style="inline">
