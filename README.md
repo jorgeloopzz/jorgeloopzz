@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-Welcome to my profike. Keep reading if you want to know me a little and enjoy.
+Welcome to my profike. Keep reading if you want to know me a little more, and enjoy!
 
 &nbsp;
 
