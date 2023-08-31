@@ -1,14 +1,24 @@
+# Hi there! 👋
+
+Welcome to my profike. Keep reading if you want to know me a little and enjoy.
+
+&nbsp;
+
 ## ⚡ About me
 
-- 🔭 I’m currently studying computer science in university.
-- 🐧 I'm a Linux enthusiast.
-- 🌱 In my free time I work on my own projects and rice my window managers.
+- 📚 I’m currently studying in ULPGC to become an engineer in the future.
+- 🐧 I'm a Linux enthusiast, currently using Arco, but have experience with Ubuntu, Linux Mint and much more.
+- 🧑‍💻 In my free time I work on my projects and rice my window managers. I have also contributed to some projects, specially to [Catppuccin](https://github.com/catppuccin), love that theme.
+
+&nbsp;
 
 ## 📈 Stats
 
 <div align="center">
   <img src="https://myreadme.vercel.app/api/embed/jorgeloopzz?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 </div>
+
+&nbsp;
 
 ## 🛠️ Languages and tools
 
