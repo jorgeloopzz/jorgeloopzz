@@ -11,10 +11,10 @@ Welcome to my profike. Keep reading if you want to know me a little more, and en
 - 🧑‍💻 In my free time I work on my projects and rice my window managers. I have also contributed to some projects, specially to [Catppuccin](https://github.com/catppuccin), love that theme.
 
 <div align="center">
-  <img src="https://img.shields.io/badge/MARCH%204%2C%202021-maker?style=flat-square&logo=github&label=Joined&color=a6d189">
-  <img src="https://komarev.com/ghpvc/?username=jorgeloopzz&style=flat-square&label=Profile+Views&color=e78284">
-  <img src="https://img.shields.io/github/followers/jorgeloopzz?label=Followers&style=flat-square&color=e5c890">
-  <img src="https://img.shields.io/github/stars/jorgeloopzz?style=flat-square&label=Stars&color=8caaee">
+  <img src="https://img.shields.io/badge/MARCH%204%2C%202021-maker?style=for-the-badge&logo=github&label=Joined&color=a6d189">
+  <img src="https://komarev.com/ghpvc/?username=jorgeloopzz&style=for-the-badge&label=Profile+Views&color=e78284">
+  <img src="https://img.shields.io/github/followers/jorgeloopzz?label=Followers&style=for-the-badge&color=e5c890">
+  <img src="https://img.shields.io/github/stars/jorgeloopzz?style=for-the-badge&label=Stars&color=8caaee">
 </div>
 
 &nbsp;
