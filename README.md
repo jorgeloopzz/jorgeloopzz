@@ -6,7 +6,7 @@ Welcome to my profike. Keep reading if you want to know me a little more, and en
 
 ## ⚡ About me
 
-- 📚 I’m currently studying in ULPGC to become an engineer in the future.
+- 📚 I’m currently studying to become an engineer in the future.
 - 🐧 I'm a Linux enthusiast, using Arco, but have experience with Ubuntu, Linux Mint and much more.
 - 🧑‍💻 In my free time I work on my projects and rice my window managers. Nowadays I'm learning backend development.
 
