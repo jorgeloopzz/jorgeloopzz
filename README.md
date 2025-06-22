@@ -1,17 +1,15 @@
 <!-- Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:FFFFFF,50:0768A9,100:FFCC00&text=Hi%20there!%20👋&animation=fadeIn">
 
-Welcome to my profike. Keep reading if you want to know me a little more, and enjoy!
+<img width="280" style="float: left; margin-right: 2em" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 
-&nbsp;
+## 🤵🏻‍♂️ About me
 
-## ⚡ About me
+- 🐧 I'm a Linux/Open source enthusiast, running Arco on my main machine and carrying a MacBook for study purposes.
+- 📚 Currently studying telecommunications engineering, specializing in electronics.
+- 🧑‍💻 In my free time, I like to work on my projects, as well as learning new things by my own. I'm very interested in OS, HW design and low-level stuff in general. Right now focusing on working with Rust.
 
-- 📚 I’m currently studying to become an engineer in the future.
-- 🐧 I'm a Linux enthusiast, using Arco, but have experience with Ubuntu, Linux Mint and much more.
-- 🧑‍💻 In my free time I work on my projects and rice my window managers. Nowadays I'm learning backend development.
-
-&nbsp;
+---
 
 ## 📈 Stats
 
