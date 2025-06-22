@@ -1,4 +1,5 @@
-# Hi there! 👋
+<!-- Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:FFFFFF,50:0768A9,100:FFCC00&text=Hi%20there!%20👋&animation=fadeIn">
 
 Welcome to my profike. Keep reading if you want to know me a little more, and enjoy!
 
@@ -9,12 +10,6 @@ Welcome to my profike. Keep reading if you want to know me a little more, and en
 - 📚 I’m currently studying to become an engineer in the future.
 - 🐧 I'm a Linux enthusiast, using Arco, but have experience with Ubuntu, Linux Mint and much more.
 - 🧑‍💻 In my free time I work on my projects and rice my window managers. Nowadays I'm learning backend development.
-
-<div align="center">
-  <img src="https://img.shields.io/badge/MARCH%204%2C%202021-maker?style=for-the-badge&logo=github&label=Joined&color=a6d189">
-  <img src="https://komarev.com/ghpvc/?username=jorgeloopzz&style=for-the-badge&label=Profile+Views&color=e78284">
-  <img src="https://img.shields.io/github/stars/jorgeloopzz?logo=starship&style=for-the-badge&label=Stars&color=8caaee">
-</div>
 
 &nbsp;
 
@@ -45,7 +40,15 @@ Welcome to my profike. Keep reading if you want to know me a little more, and en
 
 &nbsp;
 
-<p align="center"><img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true" /></p>
+<!-- Banners -->
+<div align="center">
+  <img src="https://img.shields.io/badge/MARCH%204%2C%202021-maker?style=for-the-badge&logo=github&label=Joined&color=a6d189">
+  <img src="https://komarev.com/ghpvc/?username=jorgeloopzz&style=for-the-badge&label=Profile+Views&color=e78284">
+  <img src="https://img.shields.io/github/stars/jorgeloopzz?logo=starship&style=for-the-badge&label=Stars&color=8caaee">
+</div>
+
+<!-- Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:FFCC00,50:0768A9,100:FFFFFF&animation=fadeIn&section=footer">
 
 <!--
 **jorgeloopzz/jorgeloopzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
