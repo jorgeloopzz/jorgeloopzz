@@ -13,9 +13,14 @@
 
 ## 📈 Stats
 
-<div align="center">
-  <img src="https://myreadme.vercel.app/api/embed/jorgeloopzz?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
-</div>
+<p align="center">
+  <div style="display: inline-block; vertical-align: top; margin-top: 60px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=jorgeloopzz&theme=onedark&show_icons=true" width="400"/>
+  </div>
+  <div style="display: inline-block; vertical-align: top; margin-left: 40px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorgeloopzz&theme=onedark" width="300"/>
+  </div>
+</p>
 
 &nbsp;
 
@@ -55,8 +60,6 @@ These are some of the tools that I use on a daily basis to carry out my workflow
 <!-- Banners -->
 <div align="center">
   <img src="https://img.shields.io/badge/MARCH%204%2C%202021-maker?style=for-the-badge&logo=github&label=Joined&color=a6d189">
-  <img src="https://komarev.com/ghpvc/?username=jorgeloopzz&style=for-the-badge&label=Profile+Views&color=e78284">
-  <img src="https://img.shields.io/github/stars/jorgeloopzz?logo=starship&style=for-the-badge&label=Stars&color=8caaee">
 </div>
 
 <!-- Footer -->
