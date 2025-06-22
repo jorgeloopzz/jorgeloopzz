@@ -11,7 +11,7 @@
 
 ---
 
-## 📈 Stats
+# 📈 Stats
 
 <p align="center">
   <div style="display: inline-block; vertical-align: top; margin-top: 60px;">
@@ -24,7 +24,7 @@
 
 &nbsp;
 
-## 💻️ Tools
+# 💻️ Tools
 
 These are some of the tools that I use on a daily basis to carry out my workflow...
 
@@ -56,6 +56,15 @@ These are some of the tools that I use on a daily basis to carry out my workflow
 </div>
 
 &nbsp;
+
+# 📋 References which I've made this portfolio with
+
+- [Header and footer](https://capsule-render.vercel.app/)
+- [Markdown Guide](https://www.markdownguide.org/)
+- [Markdown editor](https://stackedit.io)
+- [Stats banners](https://github.com/anuraghazra/github-readme-stats)
+- [Badges](https://shields.io/)
+- [Icons](https://github.com/marwin1991/profile-technology-icons)
 
 <!-- Banners -->
 <div align="center">
