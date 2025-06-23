@@ -1,6 +1,15 @@
 <!-- Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:FFFFFF,50:0768A9,100:FFCC00&text=Hi%20there!%20👋&animation=fadeIn">
 
+<!-- Introduction -->
+<picture>
+	<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="300" align="right">
+</picture>
+
+My name is Jorge, I'm an incoming graduate student at Universidad de Las Palmas de Gran Canaria. I spend my time reading, listening to music and learning as much as I can about technology and science. I have many ambitious goals for the future, without forgetting of the short term steps that lead me to achieve those objectives. Glad to have you on my profile and I hope I levae a good impression on everyone!
+
+&nbsp;
+
 # 🤵🏻‍♂️ About me
 
 - 🐧 I'm a Linux/Open source enthusiast, running Arco on my main machine and carrying a MacBook for study purposes.
@@ -53,6 +62,7 @@ These are some of the tools that I use on a daily basis to carry out my workflow
 
 # 📋 References which I've made this portfolio with
 
+- [Cool Gifs for Github](https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub)
 - [Header and footer](https://capsule-render.vercel.app/)
 - [Markdown Guide](https://www.markdownguide.org/)
 - [Markdown editor](https://stackedit.io)
