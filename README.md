@@ -11,14 +11,10 @@
 
 # 📈 Stats
 
-<p align="center">
-  <div style="display: inline-block; vertical-align: top; margin-top: 60px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=jorgeloopzz&theme=onedark&show_icons=true" width="400"/>
-  </div>
-  <div style="display: inline-block; vertical-align: top; margin-left: 40px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorgeloopzz&theme=onedark" width="300"/>
-  </div>
-</p>
+<div align="center">
+	<img src="https://github-readme-stats.vercel.app/api?username=jorgeloopzz&theme=onedark&show_icons=true" width="500"/>
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorgeloopzz&theme=onedark" width="400"/>
+</div>
 
 &nbsp;
 
