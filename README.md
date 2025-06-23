@@ -12,8 +12,8 @@ My name is Jorge, I'm an incoming graduate student at Universidad de Las Palmas 
 
 # 🤵🏻‍♂️ About me
 
-- 🐧 I'm a Linux/Open source enthusiast, running Arco on my main machine and carrying a MacBook for study purposes.
 - 📚 Currently studying telecommunications engineering, specializing in electronics.
+- 🐧 I'm a Linux/Open source enthusiast, running Arco on my main machine and carrying a MacBook for study purposes.
 - 🧑‍💻 In my free time, I like to work on my projects, as well as learning new things by my own. I'm very interested in OS, HW design and low-level stuff in general. Right now focusing on working with Rust.
 
 &nbsp;
