@@ -8,7 +8,7 @@
 	<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="300" align="right">
 </picture>
 
-My name is Jorge, I'm an incoming graduate student at Universidad de Las Palmas de Gran Canaria. I spend my time reading, listening to music and learning as much as I can about technology and science. I have many ambitious goals for the future, without forgetting of the short term steps that lead me to achieve those objectives. Keep reading if you want to know me a bit more.
+My name is Jorge, I'm an undergraduate student at Universidad de Las Palmas de Gran Canaria. I spend my time reading, listening to music and learning as much as I can about technology and science. I have many ambitious goals for the future, without forgetting of the short term steps that lead me to achieve those objectives. Keep reading if you want to know me a bit more.
 
 &nbsp;
 
