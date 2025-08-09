@@ -8,7 +8,7 @@
 	<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="300" align="right">
 </picture>
 
-My name is Jorge, I'm an undergraduate student at Universidad de Las Palmas de Gran Canaria. I spend my time reading, listening to music and learning as much as I can about technology and science. I have many ambitious goals for the future, without forgetting of the short term steps that lead me to achieve those objectives. Keep reading if you want to know me a bit more.
+My name is Jorge, I'm an undergraduate student at Universidad de Las Palmas de Gran Canaria. I spend my time reading, listening to music and learning as much as I can about technology and science. I have many ambitious goals for the future, without forgetting of the short term steps that lead me to achieve those objectives.
 
 &nbsp;
 
@@ -16,7 +16,7 @@ My name is Jorge, I'm an undergraduate student at Universidad de Las Palmas de G
 
 - 📚 Currently studying telecommunications engineering, specializing in electronics.
 - 🐧 I'm a Linux/Open source enthusiast, running Arco on my main machine and carrying a MacBook for study purposes.
-- 🧑‍💻 In my free time, I like to work on my projects, as well as learning new things by my own. I'm very interested in OS, HW design and low-level stuff in general. Right now focusing on working with Rust.
+- 🧑‍💻 In my free time, I like to work on my projects, as well as learning new things by my own. I'm very interested in OS, HW design and low-level stuff in general.
 
 &nbsp;
 
